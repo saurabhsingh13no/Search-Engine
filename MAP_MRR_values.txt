@@ -1,0 +1,35 @@
+System                 Values(MAP)
+TFIDF                  0.2398
+COS                    0.1716
+Run_7_Tfidf_Pseudo     0.2198
+BM25                   0.2819
+BM25_Task_3_Stopping     0.3035
+Lucene                 0.2634
+Task_2_Psuedo_REL      0.2662
+
+System                 Values(MRR)
+TFIDF                  0.7335
+COS                    0.4955
+Run_7_Tfidf_Pseudo     0.6696
+BM25                   0.8181
+BM25_Task_3_Stopping     0.7636
+Lucene                 0.8179
+Task_2_Psuedo_REL      0.6830
+
+System                 Values(P@K = 5)
+TFIDF                  0.0
+COS                    0.0
+Run_7_Tfidf_Pseudo     0.0
+BM25                   0.0
+BM25_Task_3_Stopping     0.0
+Lucene                 0.0
+Task_2_Psuedo_REL      0.0
+
+System                 Values(P@K = 20)
+TFIDF                  0.0
+COS                    0.0
+Run_7_Tfidf_Pseudo     0.0
+BM25                   0.0
+BM25_Task_3_Stopping     0.0
+Lucene                 0.0
+Task_2_Psuedo_REL      0.0
